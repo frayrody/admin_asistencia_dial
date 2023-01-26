@@ -1,0 +1,11 @@
+.jumbotron {
+    padding: 1rem 1rem;
+    margin-bottom: 0rem;
+    background-color: #0077ff;
+    border-radius: .3rem;
+}
+
+table th {
+    background: #04a3ec;
+    color: white;
+}
